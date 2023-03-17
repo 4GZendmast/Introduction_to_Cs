@@ -1,0 +1,14 @@
+C:\Visualisatie & Simulatie\(01) Course Material\05 - ChatGPT C# Course\Introduction to C#\Introduction to Cs\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Visualisatie & Simulatie\(01) Course Material\05 - ChatGPT C# Course\Introduction to C#\Introduction to Cs\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Visualisatie & Simulatie\(01) Course Material\05 - ChatGPT C# Course\Introduction to C#\Introduction to Cs\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Visualisatie & Simulatie\(01) Course Material\05 - ChatGPT C# Course\Introduction to C#\Introduction to Cs\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Visualisatie & Simulatie\(01) Course Material\05 - ChatGPT C# Course\Introduction to C#\Introduction to Cs\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Visualisatie & Simulatie\(01) Course Material\05 - ChatGPT C# Course\Introduction to C#\Introduction to Cs\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Visualisatie & Simulatie\(01) Course Material\05 - ChatGPT C# Course\Introduction to C#\Introduction to Cs\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Visualisatie & Simulatie\(01) Course Material\05 - ChatGPT C# Course\Introduction to C#\Introduction to Cs\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visualisatie & Simulatie\(01) Course Material\05 - ChatGPT C# Course\Introduction to C#\Introduction to Cs\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Visualisatie & Simulatie\(01) Course Material\05 - ChatGPT C# Course\Introduction to C#\Introduction to Cs\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Visualisatie & Simulatie\(01) Course Material\05 - ChatGPT C# Course\Introduction to C#\Introduction to Cs\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Visualisatie & Simulatie\(01) Course Material\05 - ChatGPT C# Course\Introduction to C#\Introduction to Cs\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Visualisatie & Simulatie\(01) Course Material\05 - ChatGPT C# Course\Introduction to C#\Introduction to Cs\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Visualisatie & Simulatie\(01) Course Material\05 - ChatGPT C# Course\Introduction to C#\Introduction to Cs\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
